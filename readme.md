@@ -40,4 +40,18 @@
 
 <img src="https://img.shields.io/badge/anaconda-44a833?style=flast&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-f37626?style=flast&logo=jupyter&logoColor=white">
 
+---
+
+<br>
+
+🎥 My Development History
+
 </div>
+
+- 2022.02 ~ 2022.06. `부경대학교 AI/빅데이터 과정 수료`
+- 2022.06 ~ 2023.06. `삼성 청년 SW 아카데미 (SSAFY) 8기 부울경 캠퍼스 Python Web 트랙 수료`
+- 2023.06 ~ 2023.11. `SSAFY 9기 2학기 프로젝트 실습코치`
+
+</div>
+
+<br>
