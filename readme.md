@@ -52,6 +52,6 @@ SW mastro 15기 연수생
 - 2022.02 ~ 2022.06. `부경대학교 AI/빅데이터 과정 수료`
 - 2022.06 ~ 2023.06. `삼성 청년 SW 아카데미 (SSAFY) 8기 부울경 캠퍼스 Python Web 트랙 수료`
 - 2023.06 ~ 2023.11. `SSAFY 9기 2학기 프로젝트 실습코치`
-- 2024.03 ~ &nbsp&nbsp&nbsp&nbsp `SW 마에스트로 15기 연수생`
+- 2024.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `SW 마에스트로 15기 연수생`
 
 <br>
