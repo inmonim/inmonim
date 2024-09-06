@@ -1,6 +1,6 @@
 <div align="center">
 
-## **백엔드와 데이터를 좋아하는 국문학과 출신 개발자, 정인모입니다!**
+## **백엔드 개발자 정인모입니다!**
 
 <br>
 
@@ -18,13 +18,13 @@ SW mastro 15기 연수생
 
 **👍 Good at!**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flast&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flast&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flast&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flast&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flast&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flast&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flast&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flast&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-E30E1?style=flast&logo=springboot&logoColor=white">
 
 <br>
 
 **🙆‍♂️ Available!**
 
-<img src="https://img.shields.io/badge/java-E30E17?style=flast&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-E30E1?style=flast&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flast&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flast&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/java-E30E17?style=flast&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?style=flast&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flast&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flast&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flast&logo=amazonwebservices&logoColor=white">
 
 <br>
 
