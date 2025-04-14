@@ -7,10 +7,10 @@
 *저는 지금*
 
 ```
-주식회사 업사이트에서 Python 백엔드 개발
+어웨어랩에서 백엔드 개발자
 ```
 
-*을 하고 있어요!*
+*를 하고 있어요!*
 
 ---
 
@@ -53,6 +53,7 @@
 - 2022.06 ~ 2023.06. `삼성 청년 SW 아카데미 (SSAFY) 8기 부울경 캠퍼스 Python Web 트랙 수료`
 - 2023.06 ~ 2023.11. `SSAFY 9기 2학기 프로젝트 실습코치`
 - 2024.03 ~ 2024.12. `SW 마에스트로 15기 연수생`
-- 2024.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `주식회사 업사이트 Python 백엔드 개발자`
+- 2025.01 ~ 2025.03. `주식회사 업사이트 Python 백엔드 개발자`
+- 2025.05 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `어워어랩 Go 백엔드 개발자`
 
 <br>
