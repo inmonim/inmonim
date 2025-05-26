@@ -54,6 +54,8 @@
 - 2023.06 ~ 2023.11. `SSAFY 9기 2학기 프로젝트 실습코치`
 - 2024.03 ~ 2024.12. `SW 마에스트로 15기 연수생`
 - 2025.01 ~ 2025.03. `주식회사 업사이트 Python 백엔드 개발자`
-- 2025.05 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `어워어랩 Go 백엔드 개발자`
+- 2025.04 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `SW 마에스트로 16기 Expert`
+- 2025.05 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Awarelab 소프트웨어 엔지니어`
+
 
 <br>
