@@ -7,7 +7,7 @@
 *저는 지금*
 
 ```
-어웨어랩에서 백엔드 개발자
+AwareLab Backend Software Engineer
 ```
 
 *를 하고 있어요!*
@@ -55,7 +55,7 @@
 - 2024.03 ~ 2024.12. `SW 마에스트로 15기 연수생`
 - 2025.01 ~ 2025.03. `주식회사 업사이트 Python 백엔드 개발자`
 - 2025.04 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `SW 마에스트로 16기 Expert`
-- 2025.05 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Awarelab 소프트웨어 엔지니어`
+- 2025.05 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Awarelab 백엔드 소프트웨어 엔지니어`
 
 
 <br>
